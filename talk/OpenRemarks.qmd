@@ -1,0 +1,222 @@
+---
+title: "Gem City ML"
+subtitle: "Welcome"
+date: "July 20th, 2023"
+author: "Presented by Evelyn J. Boettcher"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:
+    revealjs:
+        incremental: false
+fig-cap-location: margin
+
+---
+
+## Gem City ML
+
+:::{.columns}
+::::{.column width=75%}
+
+Gem City ML's goal is to have a space where people can present and learn new ML/AI ideas, ask for help on problems they are working on, and meet new people.
+
+<br>
+
+
+We have short talks about machine learning (ML) and how to get into this field.
+
+<br>
+
+
+The format is:
+
+* Social: ~ 30 min
+* Lecture: ~ 1 hour
+* Social: ~ 30 min
+
+Talks have ranged from MLOps, modeling CO2 to predict occupancy, to A/B Testing.
+
+<br>
+
+#### Meetings: 
+
+- **Time:** Third Thursday at 6pm
+- **Location:** the Innovation Hub / Arcade in Downtown Dayton
+
+::::
+::::{.column width=23%}
+![Meetup](./img/GemCity_meetup_qr.png)
+: Meetup
+![Discord](./img/gemcity_discord_qr.png)
+: Discord
+
+::::
+:::
+
+## Gem City Tech
+
+:::{.columns}
+::::{.column width=75%}
+
+
+GemCity TECH’s <span style="font-size:1.25em;">mission</span> is to grow the Dayton's industry and the community by providing a centralized destination for
+technical training, workshops and providing a forum for collaborating.
+
+<br>
+
+Currently, supports several special interest groups from a variety of technical disciplines.
+
+
+- Dayton Web Developers
+- Dayton Dynamic Languages
+- Dayton .net Developers
+- Gem City Games Developments
+- New to Tech
+- Frameworks
+- **Machine Learning / Artificial Intelligence (ML/AI)**
+- Code for Dayton
+- Gem City Mechatronics
+- Autonomous Miami Valley
+
+::::
+::::{.column width=23%}
+![Meetup](./img/GemCity_meetup_qr.png)
+: Meetup
+![Discord](./img/gemcity_discord_qr.png)
+: Discord
+::::
+:::
+
+
+---
+
+:::{.columns}
+::::{.column width=10%}  
+![](img/gem_city_social.png)  
+::::
+::::{.column width=10%}
+![](img/GemCityMechatronicsLogo_Transparent.png)
+::::  
+::::{.column width=10%}
+![](img/CodeForDayton.png)
+::::
+::::{.column width=7%}
+![](img/New_To_Tech_Mascot.png)
+::::
+::::{.column width=10%}
+![](img/Dayton_Web_Developers.png)
+::::
+::::{.column width=10%}
+![](img/DDLLogo.png)
+::::
+::::{.column width=10%}
+![](img/AutonomousMiamiValleyLogo.png)
+::::
+::::{.column width=10%}
+![](img/DaytonDotNet.png)
+::::
+::::{.column width=10%}
+![](img/GemCityGameDevelopers.png)
+::::
+::::{.column width=10%}
+![](img/Frameworks.png)
+::::
+:::
+
+**Gem City ML / AI**  **Meets:** 3rd Thursdays 6pm
+
+<br>
+
+**Gem City Mechatronics** - A community of electronics enthusiasts **LAB NIGHT**: 1st Monday 6pm **THEORY NIGHT**: 3rd Tuesday 6pm
+
+<br>
+
+**Code For Dayton** -  Civic oriented projects.  **Hack Night** 1st Tuesday 6pm.
+
+<br>
+ 
+**New to Tech** - Focused entry level software dev.   **Meets:** 1st Tuesdays 6pm
+
+<br>
+
+**Dayton Web Developers** - General topics for modern web developement  **Meets:** 1st Wednesdays 6pm 
+
+<br>
+ 
+**Dayton Dynamic Languages** - Lean towards Python, Scheme, and Smalltalk, (d8ndl.org) **Meets:** 2nd Wednesdays 7pm
+
+<br>
+
+**Autonomous Miami Valley** - The Autonomous MV user group  **Meets:** 2nd Tuesdays 5pm 
+
+<br>
+
+**Dayton .NET Developers** - Helping software developers through managers stay current in .NET-related tech. **Meets:** 2nd Tuesdays 6pm
+
+<br>
+ 
+**Gem City Game Developers** - Exploring all topics around gaming and the gaming industry.  **Meets:** 2nd Thursdays 5:30pm 
+
+<br>
+
+**Frameworks** Explore a balance of **both** frontend web DESIGN topics and frontend web DEVELOPMENT topics.  **Meets:** 3rd Wednesdays 6pm 
+
+---
+
+## Big Thanks to our Sponsors
+
+<br>
+<br>
+
+:::{.columns}
+::::{.column width=30%}
+#### Gem City Tech
+![](./img/logos/GCTLogo.png)
+::::
+::::{.column width=30%}
+#### The Hub
+ ![](./img/logos/The-Hub-Logo-PNC.jpg)
+::::
+::::{.column width=30%}
+#### Technology First
+ ![](./img/logos/tech_first_logo.jpg)
+::::
+::::
+
+<br>
+
+:::{.columns}
+::::{.column width=30%}
+#### Human IT
+![](./img/logos/HumanIT-Logo.png)
+::::
+::::{.column width=30%}
+#### Pizza Factory
+![](./img/logos/pizzalogo.png)
+::::
+::::{.column width=30%}
+#### Kable Academy
+![](./img/logos/KableAcademy_Logo_HR.jpg)
+::::
+:::
+
+
+* GemCity TECH: [GemCity.Tech](https://Gemcity.tech)
+* The Innovation Hub: [thehubdayton.com](https://www.thehubdayton.com/)
+* Technology First: [www.technologyfirst.org](https://www.technologyfirst.org/)
+* Human IT: [https://humanit.us/](https://humanit.us/)
+* Pizza Factory: [https://pizzafactory.biz/](https://pizzafactory.biz/)
+* Kable Academy: Kable Academy puts tech careers within reach for those willing to explore a life in IT. They are change agents, who wield the tools of education, accessibility, and connection.
+
+---
+
+## Bathrooms
+
+Bathrooms are located in the building
+
+## Nearest exit
+
+## Now for our first speaker...
+---
