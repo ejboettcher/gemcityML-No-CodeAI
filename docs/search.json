@@ -1,44 +1,121 @@
 [
   {
-    "objectID": "OpenRemarks.html#gem-city-ml",
-    "href": "OpenRemarks.html#gem-city-ml",
-    "title": "Gem City ML",
-    "section": "Gem City ML",
-    "text": "Gem City ML\n\n\nGem City ML’s goal is to have a space where people can present and learn new ML/AI ideas, ask for help on problems they are working on, and meet new people.\n\nWe have short talks about machine learning (ML) and how to get into this field.\n\nThe format is:\n\nSocial: ~ 30 min\nLecture: ~ 1 hour\nSocial: ~ 30 min\n\nTalks have ranged from MLOps, modeling CO2 to predict occupancy, to A/B Testing.\n\nMeetings:\n\nTime: Third Thursday at 6pm\nLocation: the Innovation Hub / Arcade in Downtown Dayton\n\n\n\n\n\nMeetup \n\n\nDiscord"
+    "objectID": "slide_deck.html#welcome",
+    "href": "slide_deck.html#welcome",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Welcome",
+    "text": "Welcome\n\nPlease grab a pencil/pen and paper. (Reflection afterwards)\nPlease go to github for code\n\nDownload the repo"
   },
   {
-    "objectID": "OpenRemarks.html#gem-city-tech",
-    "href": "OpenRemarks.html#gem-city-tech",
-    "title": "Gem City ML",
-    "section": "Gem City Tech",
-    "text": "Gem City Tech\n\n\nGemCity TECH’s mission is to grow the Dayton’s industry and the community by providing a centralized destination for technical training, workshops and providing a forum for collaborating.\n\nCurrently, supports several special interest groups from a variety of technical disciplines.\n\nDayton Web Developers\nDayton Dynamic Languages\nDayton .net Developers\nGem City Games Developments\nNew to Tech\nFrameworks\nMachine Learning / Artificial Intelligence (ML/AI)\nCode for Dayton\nGem City Mechatronics\nAutonomous Miami Valley\n\n\n\n\n\nMeetup \n\n\nDiscord"
+    "objectID": "slide_deck.html#machine-learning-with-teachable-machines",
+    "href": "slide_deck.html#machine-learning-with-teachable-machines",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Machine Learning with Teachable Machines",
+    "text": "Machine Learning with Teachable Machines\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck: Break it up and try again\nThis is an intro (e.g. Taste of technical skills)\n\nWant to build a more powerful app or dig deeper go to Tensorflow website"
   },
   {
-    "objectID": "OpenRemarks.html#big-thanks-to-our-sponsors",
-    "href": "OpenRemarks.html#big-thanks-to-our-sponsors",
-    "title": "Gem City ML",
-    "section": "Big Thanks to our Sponsors",
-    "text": "Big Thanks to our Sponsors\n \n\n\nGem City Tech\n\n\nThe Hub\n\n\nTechnology First\n\n\n\n\n\n\nHuman IT\n\n\nPizza Factory\n\n\nKable Academy\n\n\n\n\nGemCity TECH: GemCity.Tech\nThe Innovation Hub: thehubdayton.com\nTechnology First: www.technologyfirst.org\nHuman IT: https://humanit.us/\nPizza Factory: https://pizzafactory.biz/\nKable Academy: Kable Academy puts tech careers within reach for those willing to explore a life in IT. They are change agents, who wield the tools of education, accessibility, and connection."
+    "objectID": "slide_deck.html#about-me",
+    "href": "slide_deck.html#about-me",
+    "title": "No Code Machine Learning Workshop",
+    "section": "About Me",
+    "text": "About Me\nEvelyn J. Boettcher\n\n\n\n\n\nEvelyn Boettcher\n\n\n\n\nMom\nLoves to sew and cook\nI speak one language well and that is python!\nTrained Physicist"
   },
   {
-    "objectID": "OpenRemarks.html#code-of-conduct",
-    "href": "OpenRemarks.html#code-of-conduct",
-    "title": "Gem City ML",
-    "section": "Code of Conduct",
-    "text": "Code of Conduct\nWe expect everyone in our space to abide by this Code of Conduct. This includes event attendees, community organizers, sponsors, guests, and board members. Violation of this Code of Conduct could result in being removed from the GemCity TECH community and no longer having access to the associated benefits. If you witness a violation of our Code of Conduct, please notify us. Always feel empowered to say something and please escalate any concerns immediately to someone on the staff or leadership team or email help@gemcity.tech.\nWelcome Everyone\nOur community members are our family. Come hang out with us to learn and collaborate on a wide range of technology topics. We do not tolerate discrimination of any kind, especially on the basis of race, ethnicity, gender, religion, sexual orientation, national origin, disability, gender identity, socioeconomic status, or citizenship status. We are committed to creating a non-hostile meeting and event space for all.\nTreat Others & The Space With Respect\nRespect and allow everyone to express their opinions, concerns, and needs. Listen with the intention to understand. Respect the privacy of everyone in our community.\nPlease pick up after yourself. Treat communal spaces with respect. If you move something, put it back. Leave the space as you found it or better.\nHarassment Is Not Tolerated\nWe do not tolerate harassment of any kind. Unwanted texting, calling, emailing, following, stalking, badgering, intimidating, or threatening will result in being removed from the GemCity TECH community.\nHarassment also includes sexual harassment in any form such as teasing, jokes, innuendos, images, gestures, touching, grabbing, or giving gifts of a sexual or unwanted nature.\nIf someone tries to move on from the conversation, let them go. If someone explicitly tells you to leave them alone, then leave them alone. If you are unsure if your behavior is inappropriate, don’t do it. Always err on the side of making a comfortable environment based on the other person’s standards, not your own.\nProfessional Environment\nGemCity TECH is a community of event attendees, community organizers, sponsors, guests, and board members. This is a professional environment and should be treated as such. These are your peers, so please treat each other like peers. Be courteous, kind, and respectful at all times.\nDiversity Encouraged & Celebrated\nGemCity TECH is committed to building a diverse and inclusive community and believe doing so will lead to better overall collaboration.\nPay It Forward\nBeing part of our community means helping each other out without expectation of anything in return. Help other members of the community by making introductions, sharing your experience, or just listening.\nAbide By The Law\nDo not participate in any illegal activities.\nWe do not allow the use of illegal drugs, illegal hacking, and anything that would put our community in jeopardy.\nSmoking, vaping, or chewing is not allowed in our space.\nDo not take other people’s physical property. Do not take other people’s intellectual property…but, we encourage you to contribute to open source.\nThe GemCity TECH Code of Conduct is a living document managed by our community. If you have any suggestions, please feel free to contact us."
+    "objectID": "slide_deck.html#todays-goal",
+    "href": "slide_deck.html#todays-goal",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Today’s Goal",
+    "text": "Today’s Goal\n\n\n\nTrain a model to classify hand gestures\n\nLearn what a classifier is\n\nUse conditional statements to turn those classes into and emoji\nBuild a Web application"
   },
   {
-    "objectID": "OpenRemarks.html#other",
-    "href": "OpenRemarks.html#other",
-    "title": "Gem City ML",
-    "section": "Other",
-    "text": "Other\nBathrooms\nBathrooms are located in the building\nNearest exit"
+    "objectID": "slide_deck.html#classifications-and-models",
+    "href": "slide_deck.html#classifications-and-models",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Classifications and Models:",
+    "text": "Classifications and Models:\nWe are going to build a model that classifies between two (or more) classes.\nClassification\nA category into which something is put.\nModel\nTries to predict the correct label of a given input data.\nThe model is trained using the training data, and then it is evaluated on test data."
   },
   {
-    "objectID": "OpenRemarks.html#now-for-our-first-speaker",
-    "href": "OpenRemarks.html#now-for-our-first-speaker",
-    "title": "Gem City ML",
-    "section": "Now, for our first speaker…",
-    "text": "Now, for our first speaker…\n\n\n\nGem City Tech ML/AI"
+    "objectID": "slide_deck.html#classification-1",
+    "href": "slide_deck.html#classification-1",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Classification",
+    "text": "Classification\n\n\nYour task is to group monkeys into two classes:\n\nClass_1: Biting Monkey\nClass_2: Non-Biting Monkeys\n\n\n\nImage from Huffington Post.\n\n\nMaterials: Each group gets one set of (blue monkey)[./data/monkey_cards.pdf] carts\nClassification: Challenge\n\n\n\nDevelop a rule to define: Biting and NonBiting\nSeparate your codes by that rule\nRepeat until all of your cards can follow your rule.\n\n\n\n\n\nClass_1: Biting\nClass_2: Non Biting"
+  },
+  {
+    "objectID": "slide_deck.html#classifications-and-models-1",
+    "href": "slide_deck.html#classifications-and-models-1",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Classifications and Models",
+    "text": "Classifications and Models\nWe are going to build a model that classifies between two (or more) classes.\nClassification\nA category into which something is put.\nModel\nTries to predict the correct label of a given input data.\nThe model is trained using the training data, and then it is evaluated on test data.\n\n\n\nGem City Tech ML/AI"
+  },
+  {
+    "objectID": "slide_deck.html#discover-computer-science-teachable-machine-workshop",
+    "href": "slide_deck.html#discover-computer-science-teachable-machine-workshop",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Discover Computer Science: Teachable Machine Workshop",
+    "text": "Discover Computer Science: Teachable Machine Workshop\nA No / Low Code workshop where students will learn about machine learning (ML) and build their own ML application.\n\nTraining the AI/ML model is a NO code exercise.\n\nCreating a working web application is a low code exercise.\n\nStudents will modify a working application for their needs.\n\n\nTargeted Grades\n4th through 12th\nThis mainly targets to middle school to elementary. But there is no age limit on this workshop.\nSlide Deck is located here.\nTo Do\nDuration\n60-90 minutes\nOutcomes / Learning Objectives\n\nStudents will learn about classification\nHow classifications is used in Machine learning (ML)\nHow to create their own ml algorithm\nCreate their own application\nBe introduced to computer science.\n\nStudents will:\n\nExplain that machine learning is when computers detect patterns\nMake their own rules (a model) for describing those patterns\nTrain a machine learning model using Teachable Machine\nUse conditional statements\n\n\nPrep\n\n\n\nItem\nQty\n\n\n\n\nMonkey Carts Printed\n1 set per group\n\n\nlaptop with web camera\n1 per group\n\n\nInternet\n\n\n\nPen and Paper\n1 per student"
+  },
+  {
+    "objectID": "slide_deck.html#lesson",
+    "href": "slide_deck.html#lesson",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Lesson",
+    "text": "Lesson\nOutline:\n\nClasses and Models (No computers, Need monkey cards)\nFinished Application Demo\nWalk through Teachable machines\nStudent build their own application (two classes)\n(stretch) Students build three class application\n(stretch) Students build a nicer application\n\nOpening (15 min)\nHOOK\nShow finished application\nAsk: How does that work?\nWalk through what a class is.\nGive students a set of the green monkey cards (from AI Unplugged). Have teams divide their chart paper into 2: Biting and Non Biting.\nTraining data (blue paper):\n\nbiting: 1, 2, 3, 4\nnon- biting: 5-20 Have them decide which characteristics are for biting monkeys.\n\nThen show them the test data and see how well their model did.\nTest data (green paper)\n\nBiting: 22, 23, 24\nNon-biting: 21, 25 - 40\n\nAI Unplugged has more example in this paper\nML Explained (2.5 min)\nOverview Video on Machine Learning (~ 2 minutes)\nYouTube (very simple explanation)\nTrain Model (10 min)\nTrain Model with Teachable Machines.\n\nDemo how to train a model on Teachable Machine\nGive students 6-7 minutes to train their own.\n\nHave students go to Teachable Machine\nClick Get Started and start an image classification\nLet students create two class classification for any school acceptable hand jester.\n\nKeep the images simple\nname your classes something descriptive: Cat / Dog\nAsk how you could account for differences: skin color, jewelry, nail color.\n\n\n\nRun Models (10min)\n\nCreate an exportable link.\n\nShow students how to upload their model to a server, copy the url and paste it in the my_app.js (line\n\n\n\n\n\n\nShow students how to add an image to the first “if” condition. (on line 70)\n\nUse Wikipedia images search\n\n(stretch) Ask how the Javascript syntax is different than the Python Syntax\n\nClosing\n\nHave each group Demo their application\nStudent Refplation:\n\nHow could you use ML application in your school, home, car?\nWhat would you have to consider when training a model?\n\nCelebrate: You created a working ML models!\n\nFollow-up Resources:\n\nAI Unplugged\nAI for ALl summer programs\nThe Code Train\nGoogle Tutorial\n\n\n\n\n\nGem City Tech ML/AI"
+  },
+  {
+    "objectID": "slide_deck.html#machine-learning",
+    "href": "slide_deck.html#machine-learning",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Machine Learning",
+    "text": "Machine Learning\nVideo by OxfordSparks:"
+  },
+  {
+    "objectID": "slide_deck.html#break",
+    "href": "slide_deck.html#break",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Break",
+    "text": "Break\nBefore we get to building our machine learning model, lets take a break.\n\nStand up\nStretch\nWalk Around\nGet some water"
+  },
+  {
+    "objectID": "slide_deck.html#building-a-ml-model",
+    "href": "slide_deck.html#building-a-ml-model",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Building a ML Model",
+    "text": "Building a ML Model\nThere are three basic steps to building a model\n\nTrain the model\nExport the model\nUse the model\nForth Step: Repeat\n\nWhy a forth step\nYour model, app etc will not work the first time."
+  },
+  {
+    "objectID": "slide_deck.html#stretch-goals-conditional-statements",
+    "href": "slide_deck.html#stretch-goals-conditional-statements",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Stretch Goals: Conditional Statements",
+    "text": "Stretch Goals: Conditional Statements\nif this is true then, else do this.\n\nif you are in 9th grade (the condition)\n\n\nRaise your hand\n\nelse\n\nFold your hands on your desk\n\n\nAll computer programs have the ability to do an if/else (conditional) statements."
+  },
+  {
+    "objectID": "slide_deck.html#javascript-syntax",
+    "href": "slide_deck.html#javascript-syntax",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Javascript Syntax",
+    "text": "Javascript Syntax\nWe will be using a computer language called Javascript.\nSyntax is the rules that control the structure of the symbols, punctuation, and words of a programming language.\nSingle condition: syntax (if/else)\nWhat structure do you see.\nif (condition){\n    \\\\ Do this\n} else {\n    \\\\ Do this\n}"
+  },
+  {
+    "objectID": "slide_deck.html#students-ml-gesture-demo",
+    "href": "slide_deck.html#students-ml-gesture-demo",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Student’s ML Gesture Demo",
+    "text": "Student’s ML Gesture Demo\n\nShow your working app\nShow us the code\nExplain your process\n\nNext Steps\n\nWhat you want to do next?\nHow could you use a teachable machine in your home or school\n\nTeacher’s 3rd eye app: bad hand gesture detector?\nCrowd engagement\nPorch pirate detector\n\nWhat steps and obstacle would you have to master.\n\nLearn more\n\nCoding Train: for more Javascript Machine Learning projects\nAI4Allfree AI programs for US-based high school and college students"
+  },
+  {
+    "objectID": "slide_deck.html#acknowledgements",
+    "href": "slide_deck.html#acknowledgements",
+    "title": "No Code Machine Learning Workshop",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\n\nAI Unplugged: Monkey cards\nGoogle Women Techmakers\n\nWorkshop is based on\n\nNicki Anselmo WTM workshop for CS 2023\n\n\n\n\nGem City Tech ML/AI"
+  },
+  {
+    "objectID": "slide_deck.html#ml-with-teachable-machines",
+    "href": "slide_deck.html#ml-with-teachable-machines",
+    "title": "No Code Machine Learning Workshop",
+    "section": "ML with Teachable Machines",
+    "text": "ML with Teachable Machines\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck: Break it up and try again\nThis is an intro (e.g. Taste of technical skills)\n\nWant to build a more powerful app or dig deeper\n\nGo to Tensorflow website"
   }
 ]

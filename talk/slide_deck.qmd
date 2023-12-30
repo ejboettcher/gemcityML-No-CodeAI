@@ -1,0 +1,16 @@
+---
+title: "No Code Machine Learning Workshop"
+subtitle: "Building an AI web app with low code."
+author: "Evelyn J. Boettcher"
+date: "20231203"
+title-slide-attributes:
+    data-background-image: 'img/logos/gem_cityML_slide.png'
+    data-background-size: "100% 100% "
+    data-background-position: "0% "
+    data-background-opacity: "0.95"
+format:  revealjs    
+fig-cap-location: margin
+
+---
+
+{{< include ./markdown/slide_deck.md >}}

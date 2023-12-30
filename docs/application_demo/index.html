@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="description" content="No Code Example of a ML Algorithm">
+    <meta name="keywords" content="WTM, evelyn, Boettcher, ML, Tutorial, application">
+    <meta name="author" content="Evelyn J. Boettcher">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="style.css">
+    <title>My First ML App</title>
+    <link rel="icon" type="image/x-icon" href="./static/favicon.ico">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!--  The JS with the ML model -->    
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@latest/dist/teachablemachine-image.min.js"></script>
+    <script>
+      tf.setBackend('cpu')
+      const BACKEND_TO_USE = 'webgl';
+     async function init() {
+        await tf.setBackend(BACKEND_TO_USE);
+        await tf.ready();
+      }
+    </script>
+    <script src="my_model.js"></script>
+  </head>
+  <body>
+    <h1> Gesture Classification Demo</h1>
+    <img src="./static/WTM_Logo_Stacked_Horizontal_Color.png" alt="Google Women Techmaker Logo" style="width:240px;height:128px;">
+    <h2>Women Techmaker Low Code ML application. </h2> 
+    <p>Created with Teachable Machine.</p>
+
+    <div class="flex-container">
+      <div class="flex-child ">
+        <button type="button" onclick="init()">Start</button>
+        
+      </div>     
+    <div class="flex-child blue" id="webcam-container"></div>     
+    <div class="flex-child green" id="label-container"></div>
+    </div>
+    
+
+  </body>
+</html>

@@ -1,5 +1,9 @@
 {
   "OpenRemarks.qmd": {
     "OpenRemarks.html": "6140d11e"
+  },
+  "slide_deck.qmd": {
+    "slide_deck.html": "ba42f4cd",
+    "slide_deck.tex": "2fbbe9d1"
   }
 }

@@ -1,22 +1,32 @@
-## GemCity ML: A walk through JuypterAI
+## GemCity ML: No /Low Code ML Tutorial
 ### July 20, 2023
 ### Evelyn J. Boettcher
 
-Last year I gave a talk on how to use Tensorflow to predict when we will have another sunspot,from a tutorial from DeepLearning AI:
- 
-[Deeplearning-AI worksheet on fitting Sun Spot data with timeseries](https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C4/W4/ungraded_labs/C4_W4_Lab_3_Sunspots_CNN_RNN_DNN.ipynb)
+![WTM](./data/WTM_Logo_Stacked_Horizontal_Color.png)
+
+Evelyn J. Boettcher will go through a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.
+
+This tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.
+
+Please bring a laptop. The goal of this tutorial is to walk you through the ML/AI concepts and build your own application that can recognize hand gestures, cat etc from a web camera.
+
+This is a step-by-step guide to build an ML image application 
+
+| Subject | Image                             |
+|:----    |:----------------------------------|
+| Train a model | ![](./data/teachable_machine.png) |
+| Export Model | ![](./data/export_model.png)      |
+| Integrat Model | ![](./data/evelyn_peace.png)      |
 
 
-| Raw data | Prediction |
-|:---:|:---:|
-| ![](./data/sun_spot.png) |![](./data/sun_spot_predicted.png)|
 
+### In this Repo
 
-### This go around
+* Lesson Plan
+* Slide Deck
+* Web Application
+* Student Low Code Web Application
 
-Going to use Juypter AI with OpenAI's ChatGPT to find all of the peaks and then get the mean spacing of the peaks.
-
-Then we are going to compare it with how a data scientist would do with with scipy.  
 
 
 

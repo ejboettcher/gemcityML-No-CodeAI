@@ -1,5 +1,5 @@
 project:
-  title: "Opening Remarks"
+  title: "No/Low code Workshop"
   type: website
   output-dir: ../docs
 
@@ -14,8 +14,7 @@ format:
     footer: "Gem City Tech ML/AI "
     scrollable: true
     transition: slide
-    transition-speed: fast
-    
+    transition-speed: fast    
     chalkboard:
       buttons: true
 
