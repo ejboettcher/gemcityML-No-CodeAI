@@ -5,5 +5,14 @@
   "slide_deck.qmd": {
     "slide_deck.html": "ba42f4cd",
     "slide_deck.tex": "2fbbe9d1"
+  },
+  "lessonplan.qmd": {
+    "lessonplan.tex": "403541a6"
+  },
+  "markdown/lesson_plan.md": {
+    "lesson_plan.html": "7948b9f5"
+  },
+  "markdown/slide_deck.md": {
+    "slide_deck.html": "94f26967"
   }
 }

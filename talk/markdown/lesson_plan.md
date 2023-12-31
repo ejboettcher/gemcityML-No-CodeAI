@@ -13,9 +13,9 @@ and **build** their own ML application.
 
 This mainly targets to middle school to elementary.  But there is no age limit on this workshop.
 
-### Slide Deck is located here.
+### Slide Deck.
 
-To Do
+[Slide Deck](https://ejboettcher.github.io/gemcityML-No-CodeAI/slide_deck.html#/title-slide)
 
 ### Duration
 
@@ -42,8 +42,8 @@ To Do
 ### Prep
 
 | Item                                            | Qty |
-|:------------------------------------------------|:---|
-| [Monkey Carts Printed](./data/monkey_class.pdf) | 1 set per group |
+|:----------|:--------|
+| [Monkey Carts Printed](https://ejboettcher.github.io/gemcityML-No-CodeAI/data/monkey_class.pdf) | 1 set per group |
 | laptop with web camera                          | 1 per group |
 | Internet                                        |  |
 | Pen and Paper | 1 per student |
@@ -55,34 +55,34 @@ To Do
 Outline:
 
 * Classes and Models (No computers, Need monkey cards)
-* Finished Application Demo
-* Walk through Teachable machines
-* Student build their own application (two classes)
+* [Finished Application Demo](https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html)
+* Walk through [Teachable Machines](https://teachablemachine.withgoogle.com/)
+* Student build their own application (two class AI model)
 * (stretch) Students build three class application
 * (stretch) Students build a nicer application
 
 ### Opening (15 min)
 
 **HOOK**  
-Show finished application
+Show finished [Application Demo](https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html)
 
-Ask: How does that work? 
+
+**Ask:** How does that work? 
 
 Walk through what a class is.
 
-Give students a set of the **green** monkey cards (from AI Unplugged). Have teams divide their chart paper
-into 2: Biting and Non Biting.
+Give students a set of the **green** monkey cards (from AI Unplugged). Have teams divide their chart paper into 2 classes: Biting and Non Biting.
 
-Training data (blue paper):
+*Training data* (blue paper):
 
 - biting: 1, 2, 3, 4
 - non- biting: 5-20
-Have them decide which characteristics are for biting monkeys. 
+Have them decide which characteristics are for biting monkeys. This is done as a group.
 
-Then show them the test data and see
+Then show them the test data (green paper) and see
 how well their model did.
 
-Test data (green paper)
+*Test data* (green paper)
 
 - Biting: 22, 23, 24
 - Non-biting: 21, 25 - 40
@@ -112,18 +112,18 @@ Train Model with Teachable Machines.
 
 ### Run Models (10min)
 
-* Create an exportable link.
-  * Show students how to upload their model to a server, copy the url and paste it in the `my_app.js` (line
-34) 
-* Show students how to add an image to the first “if” condition. (on line 70)
-  * Use Wikipedia images search
+* Download model.
+  * Show students how to copy their model to a folder (static) in student_application_start, 
+  * Update the URL in the `my_model.js`  (line 5) 
+* (stretch) Show students how to add an image to the first “if” condition. (on line 64) (hint: look at the `application_demo` folder)
+  * Use Wikipedia images search for emojis
 * (stretch) Ask how the Javascript syntax is different than the Python Syntax
 
 
 ### Closing
 
 * Have each group Demo their application
-* Student Refplation: 
+* Student Reflection: 
   * How could you use ML application in your school, home, car?
   * What would you have to consider when training a model?
 * Celebrate: You created a working ML models!  

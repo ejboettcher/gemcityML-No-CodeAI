@@ -1,10 +1,10 @@
 ## GemCity ML: No /Low Code ML Tutorial
-### July 20, 2023
+### Dec 30, 2023
 ### Evelyn J. Boettcher
 
-![WTM](./data/WTM_Logo_Stacked_Horizontal_Color.png)
+![WTM](./talk/data/WTM_Logo_Stacked_Horizontal_Color.png)
 
-Evelyn J. Boettcher will go through a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.
+Evelyn J. Boettcher's tutorial based on a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.
 
 This tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.
 
@@ -14,18 +14,18 @@ This is a step-by-step guide to build an ML image application
 
 | Subject | Image                             |
 |:----    |:----------------------------------|
-| Train a model | ![](./data/teachable_machine.png) |
-| Export Model | ![](./data/export_model.png)      |
-| Integrat Model | ![](./data/evelyn_peace.png)      |
+| Train a model | ![](./talk/data/teachable_machine.png) |
+| Export Model | ![](./talk/data/export_model.png)      |
+| Integrate Model | ![](./talk/data/evelyn_peace.png)      |
 
 
 
 ### In this Repo
 
-* Lesson Plan
-* Slide Deck
-* Web Application
-* Student Low Code Web Application
+* [Lesson Plan](./docs/lessonplan.pdf)
+* [Slide Deck](./docs/slide_deck.html)
+* [Web Application](./docs/application_demo/index.html)
+* [Student Low Code Web Application](./docs/application_demo/)
 
 
 

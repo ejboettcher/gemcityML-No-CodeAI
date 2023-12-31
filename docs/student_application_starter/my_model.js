@@ -49,7 +49,7 @@ async function predict() {
     const prediction = await model.predict(webcam.canvas);
     let myEmoji = "❓";
     let max_i = maxPredictions + 1;
-    let max_prob = 0.40;
+    let max_prob = 0.35;
     for (let i = 0; i < maxPredictions; i++) {
         const classPrediction =
             prediction[i].className + ": " + prediction[i].probability.toFixed(2);
@@ -58,25 +58,9 @@ async function predict() {
             max_i = i;
             max_prob = prediction[i].probability;
         }
-
     }
-    if (max_i <= maxPredictions ){
-        const predicted = prediction[max_i];
-        if (predicted.className === 'thumb up'){  //This needs to make YOUR class label
-            myEmoji = "😁";
-        }
-        else if (predicted.className === 'thumb down'){ //This needs to make YOUR class label
-            myEmoji = "😱";
-        }
-        else if (predicted.className === 'peace'){ //This needs to make YOUR class label
-            myEmoji = "💕";
-        }
-        else {
-            myEmoji = "❓";
-        }
-        labelContainer.childNodes[maxPredictions].innerHTML = myEmoji;
-    } else {
-        labelContainer.childNodes[maxPredictions].innerHTML = "❓";
-    }
+    // TODO Build a if/else function that changes the emoji
+    //  Based on the prediction
+    labelContainer.childNodes[maxPredictions].innerHTML = myEmoji; 
 }
 

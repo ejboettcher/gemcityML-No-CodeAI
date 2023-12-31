@@ -8,8 +8,8 @@ format:
     code-fold: true
     html-math-method: katex
   revealjs:
-    theme: [default, evelyn.scss]
-    css: evelyn.css
+    theme: [default, evelyn_2023.scss]
+    css: evelyn_2023.css
     logo: './img/logos/DidactexLogo.png'
     footer: "Gem City Tech ML/AI "
     scrollable: true

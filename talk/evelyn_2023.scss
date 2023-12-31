@@ -46,21 +46,22 @@ $headings-font-weight:  500 !default;
 
 .reveal h1 {
   font-size: 2.6em;
-  color: #015079;
+  color: #f98d43ff;
   text-shadow: 0px 0px 1em rgba(0, 0, 0, 0.25);
 }
 
 .reveal h2 {
-  text-shadow: 0px 0px 1em rgba(0, 0, 0, 0.25);
+  text-shadow: 0px 0px .4em rgba(0, 0, 0, 0.25);
   font-size: 2em;
   padding-top:1px;
   font-weight: bold;
-  color:  #015079;}
+  color: rgb(93, 158, 24); 
+}
 
 .reveal h3 {
   font-size: 1.5em;
   font-weight: bold;
-  color: #039ac6ff;
+  color: #f98d43ff;
   text-shadow: 4px 4px 12px rgba(10, 0, 0, 0.15);
   line-height: 1em;
   padding-bottom:0px;
@@ -70,10 +71,11 @@ $headings-font-weight:  500 !default;
 .reveal h4 {
   font-size: 1.4em;
   font-weight: bold;
-  color: #f98d43ff;
+  color:rgb(3, 198, 152); 
   line-height:1em;
   padding-bottom:0px;
-  margin-bottom:0px;}
+  margin-bottom:0px;
+}
 
 
 /*********************************************
@@ -84,7 +86,7 @@ $headings-font-weight:  500 !default;
   line-height: 1.0;
   text-align: left;
   margin-left: 1em;
-  font-size: 1.2em;
+  font-size: 1.0em;
  }
 
 
@@ -101,13 +103,22 @@ $headings-font-weight:  500 !default;
 .reveal em {
   font-style: italic; }
 
+ 
 .reveal ol, .reveal dl, .reveal ul {
   display: inline-block;
   text-align: left;
   margin: 1px 0;
   margin-left: 1.2em;
   padding: 0.1em;
-  font-size: 1.1em;}
+  font-size: 1.0em;
+  
+}
+
+.reveal .slide ul li {
+  margin-top: 0.1em !important;
+  margin-bottom: 0.1em !important;
+  font-size: 1.05em;
+}
 
 .reveal ol {
   list-style-type: decimal; }
@@ -175,12 +186,8 @@ $headings-font-weight:  500 !default;
   color: #DCDCDC; }
 
 .reveal table {
-  /*margin: auto;
-  /*border-collapse: collapse;
-  border-spacing: 1px;
-  border-left:250px;
-  border-right:50px;*/
-  font-size: .9em;
+
+  font-size: 1.05em;
    margin-left:1.5em;
    margin-right:1.5em;
    vertical-align:center;
@@ -238,7 +245,15 @@ $headings-font-weight:  500 !default;
 .reveal section img {
   margin: 0.2em 0.2em;
   background: rgba(255,255,255, 0.2);
-  border: 0.25em solid #698751;
+  border-width: 0.2em;
+  border-style: solid;
+  border-image: 
+    linear-gradient(
+      to bottom, 
+      rgb(93, 158, 24), 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
+  
   box-shadow: 0 0.3em 0.75em rgba(0, 0, 0, 0.5); }
 
 .reveal section figure img {
@@ -251,8 +266,8 @@ $headings-font-weight:  500 !default;
   transition: all 0.15s linear; }
 
 .reveal a:hover img {
-  background: rgba(255, 255, 255, 0.2);
-  border: 0.25em solid #698751;
+  background: rgba(255, 255, 255, 0.2);  
+  border: 0.25em solid rgba(93, 158, 24, 0.935);
   box-shadow: 0 0.2em 2em rgba(0, 0, 0, 0.65); }
 
 /*********************************************
@@ -343,16 +358,17 @@ $headings-font-weight:  500 !default;
 
 .reveal h1.title{
 text-align: center !important;
-align: left !important;
-margin-left: -2rem !important;
-padding-top: 15rem;
+align: center !important;
+margin-left: 0rem !important;
+padding-top: 5rem;
 box-sizing: content-box;
-width: 70% !important;
+width: 100% !important;
 color:  #039ac6ff;
 text-shadow: 1px 1px 5px #015079;
 }
 .reveal p.author{
-  text-align: left !important;
+  text-align: center !important;
+  align: center !important;
   font-size: 1.35em;
   color: #f98d43ff;
   text-shadow: 1px 1px 5px #015079;
@@ -361,7 +377,8 @@ text-shadow: 1px 1px 5px #015079;
 }
 
 .reveal p.subtitle{
-  text-align: left !important;
+  text-align: center !important;
+  align: center !important;
   font-size: 2.2em;
   color:  #039ac6ff;
   box-sizing: content-box;
@@ -372,6 +389,8 @@ text-shadow: 1px 1px 5px #015079;
 
  .reveal p.date{
   color:  #5FB71C;
+  text-align: center !important;
+  align: center !important;
   
  }
 

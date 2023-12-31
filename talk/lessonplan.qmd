@@ -1,6 +1,6 @@
 ---
 title: "Lesson Plan"
-date: "December 3rd, 2023"
+date: "20231231"
 author: "Evelyn J. Boettcher"
 format:
   pdf:

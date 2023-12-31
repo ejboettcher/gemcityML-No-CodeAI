@@ -3,7 +3,7 @@
 
 - Please grab a pencil/pen and paper.  (Reflection afterwards)
 - Please go to github for code
-  - Download the repo
+  - Download [the repo](https://github.com/ejboettcher/gemcityML-No-CodeAI)
 
 ## ML with Teachable Machines
 
@@ -26,12 +26,12 @@ Let's get in the right mindset.
 Evelyn J. Boettcher
 
 :::{.columns}
-::::{.column width=39%}
+::::{.column width=49%}
 
 ![Evelyn Boettcher](./img/Boettcher_C17.jpeg)
 
 ::::
-::::{.column width=59%}
+::::{.column width=49%}
  
 - Mom
 - Loves to sew and cook
@@ -73,8 +73,9 @@ Let's check it out.
 
 <br>
 
-- Final Site
-- Code
+- [Final Site](https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html)
+- [Demo Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/application_demo)
+- [Student Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/student_application_starter)
 
 
 ## Classifications and Models:
@@ -97,17 +98,28 @@ The model is  trained using the training data, and then it is evaluated on test 
 ## Classification
 
 :::{.columns}
-::::{.column width=49%}
+::::{.column width=59%}
 
 Your task is to group monkeys into two classes:
 
 - **Class_1**: Biting Monkey
-- **Class_2**: Non-Biting Monkeys
+- **Class_2**: Non-Biting Monkeys  
+
+<br>
 
 Materials: Each group gets one set of [blue monkey](./data/monkey_cards.pdf) carts
 
+<br>  
+<br>
+
+### Classification: Challenge
+
+* Develop a rule to define: Biting and NonBiting
+* Separate your codes by that rule
+* Repeat until all of your cards can follow your rule.
+
 ::::
-::::{.column width=49%}
+::::{.column width=39%}
 
 ![](./img/biting_monkey.jpg)
 
@@ -117,16 +129,8 @@ Image from [Huffington Post](https://www.huffpost.com/entry/baby-monkey-misses-m
 :::
 
 
-
-### Classification: Challenge
-
-
 :::{.columns}
-::::{.column width=49%}
-
-* Develop a rule to define: Biting and NonBiting
-* Separate your codes by that rule
-* Repeat until all of your cards can follow your rule.
+::::{.column width=25%}
 
 ::::
 ::::{.column width=49%}
@@ -134,11 +138,15 @@ Image from [Huffington Post](https://www.huffpost.com/entry/baby-monkey-misses-m
 
 | **Class_1**: Biting | **Class_2**: Non Biting |
 |:----     |:----  |
-|           |    |
-|    |   |
-|    |    |
+|  card c   |  card d  |
+|  card a  | card b   |
+|  ...  |  ...  |
  
 ::::
+::::{.column width=24%}
+
+::::
+
 :::
 
 ---
@@ -170,6 +178,8 @@ Image from [Huffington Post](https://www.huffpost.com/entry/baby-monkey-misses-m
 
 ---
 
+<br>
+
 ### Classification: Share Out
 
 **Model**: The set of rules and steps to make a prediction
@@ -179,6 +189,8 @@ What is your group's **model** for classifying monkeys?
 - **Class_1**: Biting Monkey
 - **Class_2**: Non-Biting Monkeys  
   
+<br>  
+<hr>
 <br>
 
 ### Classification: Man vs Machine
@@ -208,6 +220,11 @@ lets take a break.
 
 There are three basic steps to building a model  
 
+:::{.columns}
+
+::::{.column width=49%}
+
+
 - Train the model
 - Export the model
 - Use the model
@@ -215,10 +232,18 @@ There are three basic steps to building a model
 
 <br>
 
+
+ 
 ### Why a forth step
 
-Your model, app etc will not work the first time.
+Your model, app etc will not work the first time. 
+::::
+::::{.column width=49%}
 
+![computer_fire](./img/computer_on_fire.png)
+::::
+
+:::
 ---
 
 ### Train the Model
@@ -260,11 +285,19 @@ Your model, app etc will not work the first time.
 ### Use the Model
 
 - In a new tab, go to 
-    - **TODO** link to github
-- Open my-script.js
-- Paste your model's url in line
+    - [Student Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/student_application_starter)
+    - Download *student_application_starter*
+    - OR *fork* code
+- Open `my_model.js` using any IDE.  Github has an online IDE
+    - Popular IDES
+        - VS-Code
+        - CodePen
+        - Github 
+- Update the URL in the `my_model.js`  (line 5) 
 - Run and test your app  
 
+<br>
+<hr>  
 <br>
 
 #### Running and Testing
@@ -276,21 +309,24 @@ WOW, this is a hard step.
     - Let's use Codepen.io
 - Or run it on our computer
     - ```python -m http.server```
-    - must use localhost:8000 or https:// server
+        - must use localhost:8000  
 
 ---
 
 ### Stretch Goals
 
-| Level | Goal |
-|:---- |:---- |
-| Mild | Add a third class to your model | 
-| Hot | Add another `else if` to the my_model.js |
-| Spicy | The application can not handle when there is no gestures. Can you fix that within the application or model |
-| Insanity | Update the css to make it look nice |
+<br>  
+
+| Level | Goal  |
+|:--    |:--------- |
+| **Mild**  | Add a third class to your model | 
+| **Hot**   | Add another `else if` to the my_model.js |
+| **Spicy** | The application can not handle when there is no gestures. Can you fix that within the application or model |
+|**Insanity** | Update the css to make it look nice |
 
 
-## Stretch Goals: Conditional Statements 
+## Stretch Goals: 
+### Conditional Statements 
 
 `if` this is *true* then, `else` do this.
 
@@ -302,7 +338,8 @@ if **you are in 9th grade**  (the condition)
 
 - Raise your hand
 
-else
+**else**  
+<br>
 
 - Fold your hands on your desk
 
@@ -315,7 +352,10 @@ All computer programs have the ability to do an if/else (conditional) statements
 We will be using a computer language called `Javascript`.
 
 
-**Syntax** is the rules that control the structure of the symbols, punctuation, and words of a programming language.
+**Syntax** is the rules that control the structure of the symbols, punctuation, and words of a programming language.  
+<br>  
+<hr>
+<br>  
 
 ### Single condition: syntax (if/else)
 
@@ -331,7 +371,8 @@ if (condition){
 
 ---
 
-### Multiple condition: Syntax (if/else if / else)
+### Multiple condition: 
+#### Syntax (if/else if / else)
 
 :::{.columns}
 ::::{.column width=49%}
@@ -350,19 +391,23 @@ if (condition){
 ::::
 ::::{.column width=49%}
 
+<br>
+
 With more than one condition (checking for true), use `else if`.
 
 ::::
 :::
 
+<br> 
+
 #### Google is your friend
 
-When stuck google.  Stack overflow is your best friend
+When stuck, google.  Stack overflow is your best friend
 
 - Include language: javescript
 - What you are trying to do: if statement
 
-Example: javescript if statement
+Example: `javescript if statement`
 
 
 ## Student's ML Gesture Demo
