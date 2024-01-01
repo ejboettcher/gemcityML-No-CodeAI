@@ -64,19 +64,45 @@ Evelyn J. Boettcher
 
 ---
 
-### Demo
+### Demo  
 
 <br>  
-  
 
 Let's check it out.  
 
 <br>
 
-- [Final Site](https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html)
-- [Demo Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/application_demo)
-- [Student Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/student_application_starter)
+:::{.columns}
+::::{.column width=59%}
 
+- [Final Site](https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html): Web app
+- [Demo Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/application_demo): Code that runs web app
+- [Student Code](https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/student_application_starter): Student Starter code
+
+
+### Copy Code
+
+All code is located on ejboettcher's github site.  
+
+<br>  
+
+https://github.com/ejboettcher/gemcityML-No-CodeAI  
+<br>  
+
+
+Student code is located in this folder:
+
+- docs/student_application_starter  
+
+
+::::
+::::{.column width=39%}
+
+![github](./img/qrcode_github.com.png)
+
+
+::::
+:::
 
 ## Classifications and Models:
 
