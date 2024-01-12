@@ -1,5 +1,5 @@
 project:
-  title: "No/Low code Workshop"
+  title: "No/Low Code Workshop"
   type: website
   output-dir: ../docs
 
@@ -7,16 +7,26 @@ format:
   html:
     code-fold: true
     html-math-method: katex
-  revealjs:
     theme: [default, evelyn_2023.scss]
     css: evelyn_2023.css
-    logo: './img/logos/DidactexLogo.png'
-    footer: "Gem City Tech ML/AI "
-    scrollable: true
-    transition: slide
-    transition-speed: fast    
-    chalkboard:
-      buttons: true
+    toc: true
+
+  
+
+website:
+  title: "No/Low Code Workshop"
+  navbar:
+    left:
+      - href: index.html
+        text: Home
+      - href: https://ejboettcher.github.io/gemcityML-No-CodeAI/application_demo/index.html
+        text: "Web App Demo"
+      - href: slide_deck.html
+        text: Slides
+      - href: lessonplan.qmd
+        text: "Lesson Plan"
+      - href: https://github.com/ejboettcher/gemcityML-No-CodeAI/tree/main/docs/student_application_starter
+        text: "Student App Code"
 
 execute:
   echo: true

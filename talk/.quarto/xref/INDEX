@@ -14,5 +14,8 @@
   },
   "markdown/slide_deck.md": {
     "slide_deck.html": "94f26967"
+  },
+  "index.qmd": {
+    "index.html": "3b7ccf45"
   }
 }

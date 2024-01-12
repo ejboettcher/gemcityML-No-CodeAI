@@ -10,4 +10,4 @@ format:
 ---
 
 
-{{< include ./markdown/lesson_plan.md >}}
+{{< include ./_markdown/lesson_plan.md >}}
