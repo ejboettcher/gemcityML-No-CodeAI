@@ -1,0 +1,24 @@
+---
+title: "No Code ML/AI Tutorial"
+date: "20231231"
+author: "Evelyn J. Boettcher"
+
+---
+
+![WTM](./data/WTM_Logo_Stacked_Horizontal_Color.png)
+
+Evelyn J. Boettcher's  tutorial is based on a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.
+
+This tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.
+
+The goal of this tutorial is to walk someone through the ML/AI concepts and have them build their own application that can recognize hand gestures, cat etc from a web camera.
+
+This is a step-by-step guide to build an ML image application 
+
+| Subject | Image                             |
+|:----    |:----------------------------------|
+| Train a model | ![](./data/teachable_machine.png) |
+| Export Model | ![](./data/export_model.png)      |
+| Integrate Model | ![](./data/evelyn_peace.png)   |
+
+
