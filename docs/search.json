@@ -4,21 +4,21 @@
     "href": "slide_deck.html#welcome",
     "title": "No Code Machine Learning Workshop",
     "section": "Welcome",
-    "text": "Welcome\n\nPlease grab a pencil/pen and paper. (Reflection afterwards)\nPlease go to github for code\n\nDownload the repo"
+    "text": "Welcome\n\n\n\nPlease grab a pencil/pen and paper. (Reflection afterwards)\nPlease go to github for code\n\nDownload the repo\n\n\n\n\n\n\ngithub"
   },
   {
-    "objectID": "slide_deck.html#machine-learning-with-teachable-machines",
-    "href": "slide_deck.html#machine-learning-with-teachable-machines",
+    "objectID": "slide_deck.html#ml-with-teachable-machines",
+    "href": "slide_deck.html#ml-with-teachable-machines",
     "title": "No Code Machine Learning Workshop",
-    "section": "Machine Learning with Teachable Machines",
-    "text": "Machine Learning with Teachable Machines\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck: Break it up and try again\nThis is an intro (e.g. Taste of technical skills)\n\nWant to build a more powerful app or dig deeper go to Tensorflow website"
+    "section": "ML with Teachable Machines",
+    "text": "ML with Teachable Machines\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck:\n\nBreak it up and try again\n\nThis is an intro (e.g. Taste / sample of a technical skills)\n\nWant to build a more powerful app or dig deeper\n\nGo to Tensorflow website"
   },
   {
     "objectID": "slide_deck.html#about-me",
     "href": "slide_deck.html#about-me",
     "title": "No Code Machine Learning Workshop",
     "section": "About Me",
-    "text": "About Me\nEvelyn J. Boettcher\n\n\n\n\n\nEvelyn Boettcher\n\n\n\n\nMom\nLoves to sew and cook\nI speak one language well and that is python!\nTrained Physicist\nMember of GemCity.TECH"
+    "text": "About Me\nEvelyn J. Boettcher\n\n\n\n\n\nEvelyn Boettcher\n\n\n\n\n\n\nMom\nLoves to sew and cook\nI speak one language well and that is python!\nTrained Physicist ( I have a Master’s degree)\nI like to make things\n\nPatents\nIoT devices in running my house\n\nMember of GemCity.TECH and Google Women Techmaker Ambassador"
   },
   {
     "objectID": "slide_deck.html#todays-goal",
@@ -42,27 +42,6 @@
     "text": "Classification\n\n\nYour task is to group monkeys into two classes:\n\nClass_1: Biting Monkey\nClass_2: Non-Biting Monkeys\n\n\nMaterials: Each group gets one set of blue monkey carts\n\n\nClassification: Challenge\n\nDevelop a rule to define: Biting and NonBiting\nSeparate your codes by that rule\nRepeat until all of your cards can follow your rule.\n\n\n\nImage from Huffington Post.\n\n\n\n\n\n\n\n\n\nClass_1: Biting\nClass_2: Non Biting\n\n\n\n\ncard c\ncard d\n\n\ncard a\ncard b\n\n\n…\n…"
   },
   {
-    "objectID": "slide_deck.html#classifications-and-models-1",
-    "href": "slide_deck.html#classifications-and-models-1",
-    "title": "No Code Machine Learning Workshop",
-    "section": "Classifications and Models",
-    "text": "Classifications and Models\nWe are going to build a model that classifies between two (or more) classes.\nClassification\nA category into which something is put.\nModel\nTries to predict the correct label of a given input data.\nThe model is trained using the training data, and then it is evaluated on test data.\n\n\n\nGem City Tech ML/AI"
-  },
-  {
-    "objectID": "slide_deck.html#discover-computer-science-teachable-machine-workshop",
-    "href": "slide_deck.html#discover-computer-science-teachable-machine-workshop",
-    "title": "No Code Machine Learning Workshop",
-    "section": "Discover Computer Science: Teachable Machine Workshop",
-    "text": "Discover Computer Science: Teachable Machine Workshop\nA No / Low Code workshop where students will learn about machine learning (ML) and build their own ML application.\n\nTraining the AI/ML model is a NO code exercise.\n\nCreating a working web application is a low code exercise.\n\nStudents will modify a working application for their needs.\n\n\nTargeted Grades\n4th through 12th\nThis mainly targets to middle school to elementary. But there is no age limit on this workshop.\nSlide Deck is located here.\nTo Do\nDuration\n60-90 minutes\nOutcomes / Learning Objectives\n\nStudents will learn about classification\nHow classifications is used in Machine learning (ML)\nHow to create their own ml algorithm\nCreate their own application\nBe introduced to computer science.\n\nStudents will:\n\nExplain that machine learning is when computers detect patterns\nMake their own rules (a model) for describing those patterns\nTrain a machine learning model using Teachable Machine\nUse conditional statements\n\n\nPrep\n\n\n\nItem\nQty\n\n\n\n\nMonkey Carts Printed\n1 set per group\n\n\nlaptop with web camera\n1 per group\n\n\nInternet\n\n\n\nPen and Paper\n1 per student"
-  },
-  {
-    "objectID": "slide_deck.html#lesson",
-    "href": "slide_deck.html#lesson",
-    "title": "No Code Machine Learning Workshop",
-    "section": "Lesson",
-    "text": "Lesson\nOutline:\n\nClasses and Models (No computers, Need monkey cards)\nFinished Application Demo\nWalk through Teachable machines\nStudent build their own application (two classes)\n(stretch) Students build three class application\n(stretch) Students build a nicer application\n\nOpening (15 min)\nHOOK\nShow finished application\nAsk: How does that work?\nWalk through what a class is.\nGive students a set of the green monkey cards (from AI Unplugged). Have teams divide their chart paper into 2: Biting and Non Biting.\nTraining data (blue paper):\n\nbiting: 1, 2, 3, 4\nnon- biting: 5-20 Have them decide which characteristics are for biting monkeys.\n\nThen show them the test data and see how well their model did.\nTest data (green paper)\n\nBiting: 22, 23, 24\nNon-biting: 21, 25 - 40\n\nAI Unplugged has more example in this paper\nML Explained (2.5 min)\nOverview Video on Machine Learning (~ 2 minutes)\nYouTube (very simple explanation)\nTrain Model (10 min)\nTrain Model with Teachable Machines.\n\nDemo how to train a model on Teachable Machine\nGive students 6-7 minutes to train their own.\n\nHave students go to Teachable Machine\nClick Get Started and start an image classification\nLet students create two class classification for any school acceptable hand jester.\n\nKeep the images simple\nname your classes something descriptive: Cat / Dog\nAsk how you could account for differences: skin color, jewelry, nail color.\n\n\n\nRun Models (10min)\n\nCreate an exportable link.\n\nShow students how to upload their model to a server, copy the url and paste it in the my_app.js (line\n\n\n\n\n\n\nShow students how to add an image to the first “if” condition. (on line 70)\n\nUse Wikipedia images search\n\n(stretch) Ask how the Javascript syntax is different than the Python Syntax\n\nClosing\n\nHave each group Demo their application\nStudent Refplation:\n\nHow could you use ML application in your school, home, car?\nWhat would you have to consider when training a model?\n\nCelebrate: You created a working ML models!\n\nFollow-up Resources:\n\nAI Unplugged\nAI for ALl summer programs\nThe Code Train\nGoogle Tutorial\n\n\n\n\n\nGem City Tech ML/AI"
-  },
-  {
     "objectID": "slide_deck.html#machine-learning",
     "href": "slide_deck.html#machine-learning",
     "title": "No Code Machine Learning Workshop",
@@ -84,11 +63,11 @@
     "text": "Building a ML Model\nThere are three basic steps to building a model\n\n\n\nTrain the model\nExport the model\nUse the model\nForth Step: Repeat\n\n\nWhy a forth step\nYour model, app etc will not work the first time.\n\n\n\n\ncomputer_fire"
   },
   {
-    "objectID": "slide_deck.html#stretch-goals-conditional-statements",
-    "href": "slide_deck.html#stretch-goals-conditional-statements",
+    "objectID": "slide_deck.html#stretch-goals-1",
+    "href": "slide_deck.html#stretch-goals-1",
     "title": "No Code Machine Learning Workshop",
-    "section": "Stretch Goals: Conditional Statements",
-    "text": "Stretch Goals: Conditional Statements\nif this is true then, else do this.\n\nif you are in 9th grade (the condition)\n\n\nRaise your hand\n\nelse\n\nFold your hands on your desk\n\n\nAll computer programs have the ability to do an if/else (conditional) statements."
+    "section": "Stretch Goals:",
+    "text": "Stretch Goals:\nConditional Statements\nif this is true then, else do this.\n\nif you are in 9th grade (the condition)\n\n\nRaise your hand\n\nelse\n\n\nFold your hands on your desk\n\n\nAll computer programs have the ability to do an if/else (conditional) statements."
   },
   {
     "objectID": "slide_deck.html#javascript-syntax",
@@ -112,143 +91,10 @@
     "text": "Acknowledgements\n\nAI Unplugged: Monkey cards\nGoogle Women Techmakers\n\nWorkshop is based on\n\nNicki Anselmo WTM workshop for CS 2023\n\n\n\n\nGem City Tech ML/AI"
   },
   {
-    "objectID": "slide_deck.html#ml-with-teachable-machines",
-    "href": "slide_deck.html#ml-with-teachable-machines",
-    "title": "No Code Machine Learning Workshop",
-    "section": "ML with Teachable Machines",
-    "text": "ML with Teachable Machines\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck: Break it up and try again\nThis is an intro (e.g. Taste of technical skills)\n\nWant to build a more powerful app or dig deeper\n\nGo to Tensorflow website"
-  },
-  {
-    "objectID": "slide_deck.html#stretch-goals-1",
-    "href": "slide_deck.html#stretch-goals-1",
-    "title": "No Code Machine Learning Workshop",
-    "section": "Stretch Goals:",
-    "text": "Stretch Goals:\nConditional Statements\nif this is true then, else do this.\n\nif you are in 9th grade (the condition)\n\n\nRaise your hand\n\nelse\n\n\nFold your hands on your desk\n\n\nAll computer programs have the ability to do an if/else (conditional) statements."
-  },
-  {
-    "objectID": "markdown/slide_deck.html",
-    "href": "markdown/slide_deck.html",
-    "title": "No/Low code Workshop",
-    "section": "",
-    "text": "Please grab a pencil/pen and paper. (Reflection afterwards)\nPlease go to github for code\n\nDownload the repo"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#welcome",
-    "href": "markdown/slide_deck.html#welcome",
-    "title": "No/Low code Workshop",
-    "section": "",
-    "text": "Please grab a pencil/pen and paper. (Reflection afterwards)\nPlease go to github for code\n\nDownload the repo"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#ml-with-teachable-machines",
-    "href": "markdown/slide_deck.html#ml-with-teachable-machines",
-    "title": "No/Low code Workshop",
-    "section": "ML with Teachable Machines",
-    "text": "ML with Teachable Machines\n\nFirst\nLet’s get in the right mindset.\n\nWe are all learners and we are all teachers.\n\nplease, ask and give help as needed\n\nEveryone here is valued and respected\nGot Stuck: Break it up and try again\nThis is an intro (e.g. Taste of technical skills)\n\nWant to build a more powerful app or dig deeper\n\nGo to Tensorflow website"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#about-me",
-    "href": "markdown/slide_deck.html#about-me",
-    "title": "No/Low code Workshop",
-    "section": "About Me",
-    "text": "About Me\nEvelyn J. Boettcher\n\n\n\n\n\nEvelyn Boettcher\n\n\n\n\nMom\nLoves to sew and cook\nI speak one language well and that is python!\nTrained Physicist\nMember of GemCity.TECH"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#todays-goal",
-    "href": "markdown/slide_deck.html#todays-goal",
-    "title": "No/Low code Workshop",
-    "section": "Today’s Goal",
-    "text": "Today’s Goal\n\n\n\nTrain a model to classify hand gestures\n\nLearn what a classifier is\n\nUse conditional statements to turn those classes into and emoji\nBuild a Web application\n\n\n \n\n\n\n\nDemo\n\nLet’s check it out.\n\n\nFinal Site\nCode"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#classifications-and-models",
-    "href": "markdown/slide_deck.html#classifications-and-models",
-    "title": "No/Low code Workshop",
-    "section": "Classifications and Models:",
-    "text": "Classifications and Models:\nWe are going to build a model that classifies between two (or more) classes.\n\n\nClassification\nA category into which something is put.\n\n\nModel\nTries to predict the correct label of a given input data.\nThe model is trained using the training data, and then it is evaluated on test data."
-  },
-  {
-    "objectID": "markdown/slide_deck.html#classification-1",
-    "href": "markdown/slide_deck.html#classification-1",
-    "title": "No/Low code Workshop",
-    "section": "Classification",
-    "text": "Classification\n\n\nYour task is to group monkeys into two classes:\n\nClass_1: Biting Monkey\nClass_2: Non-Biting Monkeys\n\nMaterials: Each group gets one set of blue monkey carts\n\n\nImage from Huffington Post.\n\n\n\nClassification: Challenge\n\n\n\nDevelop a rule to define: Biting and NonBiting\nSeparate your codes by that rule\nRepeat until all of your cards can follow your rule.\n\n\n\n\n\nClass_1: Biting\nClass_2: Non Biting\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClassification: Wrap up\n\nWhat Rule did you use to determine which class the Monkey belongs to?\nDoes your model hold up?\n\n\n\n\n\n\nVisual\n\n\n\nClass_1= Biting Monkey\nClass_2= Non-Biting Monkeys\n\n\n\n\n\nRule\n\n\n\n\n\n\n\nClassification: Share Out\nModel: The set of rules and steps to make a prediction\nWhat is your group’s model for classifying monkeys?\n\nClass_1: Biting Monkey\nClass_2: Non-Biting Monkeys\n\n\n\n\nClassification: Man vs Machine\nIn this monkey example, we (human) could infer the model (set of rules). Software Engineering is when a human makes a rule that the machine follows.\nMost Machine learning classifiers, the “rules” of the model are unknown to us. We only get hte output of the machine assigned classes. Machine learning is when the machine creates the rules for the machine to follow."
-  },
-  {
-    "objectID": "markdown/slide_deck.html#machine-learning",
-    "href": "markdown/slide_deck.html#machine-learning",
-    "title": "No/Low code Workshop",
-    "section": "Machine Learning",
-    "text": "Machine Learning\nVideo by OxfordSparks:"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#break",
-    "href": "markdown/slide_deck.html#break",
-    "title": "No/Low code Workshop",
-    "section": "Break",
-    "text": "Break\nBefore we get to building our machine learning model, lets take a break.\n\nStand up\nStretch\nWalk Around\nGet some water"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#building-a-ml-model",
-    "href": "markdown/slide_deck.html#building-a-ml-model",
-    "title": "No/Low code Workshop",
-    "section": "Building a ML Model",
-    "text": "Building a ML Model\nThere are three basic steps to building a model\n\nTrain the model\nExport the model\nUse the model\nForth Step: Repeat\n\n\n\nWhy a forth step\nYour model, app etc will not work the first time.\n\n\n\nTrain the Model\n\n\n\nGoogle “Teachable Machine”\n\nClick Get Started\nClick Image Project (standard model)\n\nRename Class_1: Thumbs Up\nAdd Image Samples by, clicking Webcam\nPut only your hand in the webcam\n\nMake a thumbs up sign\nClick record\nrepeat, with hand in new parts of screen\n\nRepeat with a new class: Thumbs Down\nClick Train Model\nTest the accuracy of your model: Record more images if needed\n\n\n\n\n\nTeachable Machine\n\n\n\n\n\n\n\nExport the Model\n\nIn Teachable Machine, click Export Model\nThen click Upload my model\nclick Copy\nLeave tab open (may need to retrain)\n\n\n\n\nUse the Model\n\nIn a new tab, go to\n\nTODO link to github\n\nOpen my-script.js\nPaste your model’s url in line\nRun and test your app\n\n\n\n\n\nRunning and Testing\nWOW, this is a hard step.\n\nWe can edit and run it in Github (fork code).\nCodepen.io\n\nLet’s use Codepen.io\n\nOr run it on our computer\n\npython -m http.server\nmust use localhost:8000 or https:// server\n\n\n\n\n\n\nStretch Goals\n\n\n\n\n\n\n\n\nLevel\nGoal\n\n\n\n\nMild\nAdd a third class to your model\n\n\nHot\nAdd another else if to the my_model.js\n\n\nSpicy\nThe application can not handle when there is no gestures. Can you fix that within the application or model\n\n\nInsanity\nUpdate the css to make it look nice"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#stretch-goals-1",
-    "href": "markdown/slide_deck.html#stretch-goals-1",
-    "title": "No/Low code Workshop",
-    "section": "Stretch Goals:",
-    "text": "Stretch Goals:\n\nConditional Statements\nif this is true then, else do this.\n\nif you are in 9th grade (the condition)\n\n\nRaise your hand\n\nelse\n\nFold your hands on your desk\n\n\nAll computer programs have the ability to do an if/else (conditional) statements."
-  },
-  {
-    "objectID": "markdown/slide_deck.html#javascript-syntax",
-    "href": "markdown/slide_deck.html#javascript-syntax",
-    "title": "No/Low code Workshop",
-    "section": "Javascript Syntax",
-    "text": "Javascript Syntax\nWe will be using a computer language called Javascript.\nSyntax is the rules that control the structure of the symbols, punctuation, and words of a programming language.\n\n\nSingle condition: syntax (if/else)\nWhat structure do you see.\nif (condition){\n    \\\\ Do this\n} else {\n    \\\\ Do this\n}\n\n\n\nMultiple condition:\n\nSyntax (if/else if / else)\n\n\nif (condition){\n    \\\\ Do this action\n}else if (condition){\n    \\\\ Do this action 2\n} else {\n    \\\\ Do this action 3\n}\n\n\nWith more than one condition (checking for true), use else if.\n\n\n\n\n\nGoogle is your friend\nWhen stuck, google. Stack overflow is your best friend\n\nInclude language: javescript\nWhat you are trying to do: if statement\n\nExample: javescript if statement"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#students-ml-gesture-demo",
-    "href": "markdown/slide_deck.html#students-ml-gesture-demo",
-    "title": "No/Low code Workshop",
-    "section": "Student’s ML Gesture Demo",
-    "text": "Student’s ML Gesture Demo\n\nShow your working app\nShow us the code\nExplain your process\n\n\nNext Steps\n\nWhat you want to do next?\nHow could you use a teachable machine in your home or school\n\nTeacher’s 3rd eye app: bad hand gesture detector?\nCrowd engagement\nPorch pirate detector\n\nWhat steps and obstacle would you have to master.\n\n\n\nLearn more\n\nCoding Train: for more Javascript Machine Learning projects\nAI4Allfree AI programs for US-based high school and college students"
-  },
-  {
-    "objectID": "markdown/slide_deck.html#acknowledgements",
-    "href": "markdown/slide_deck.html#acknowledgements",
-    "title": "No/Low code Workshop",
-    "section": "Acknowledgements",
-    "text": "Acknowledgements\n\nAI Unplugged: Monkey cards\nGoogle Women Techmakers\n\nWorkshop is based on\n\nNicki Anselmo WTM workshop for CS 2023"
-  },
-  {
-    "objectID": "markdown/lesson_plan.html",
-    "href": "markdown/lesson_plan.html",
-    "title": "No/Low code Workshop",
-    "section": "",
-    "text": "A No / Low Code workshop where students will learn about machine learning (ML) and build their own ML application.\n\nTraining the AI/ML model is a NO code exercise.\n\nCreating a working web application is a low code exercise.\n\nStudents will modify a working application for their needs.\n\n\n\n\n4th through 12th\nThis mainly targets to middle school to elementary. But there is no age limit on this workshop.\n\n\n\nSlide Deck\n\n\n\n60-90 minutes\n\n\n\n\nStudents will learn about classification\nHow classifications is used in Machine learning (ML)\nHow to create their own ml algorithm\nCreate their own application\nBe introduced to computer science.\n\n\n\n\nExplain that machine learning is when computers detect patterns\nMake their own rules (a model) for describing those patterns\nTrain a machine learning model using Teachable Machine\nUse conditional statements\n\n\n\n\n\n\n\n\n\nItem\nQty\n\n\n\n\nMonkey Carts Printed\n1 set per group\n\n\nlaptop with web camera\n1 per group\n\n\nInternet\n\n\n\nPen and Paper\n1 per student"
-  },
-  {
-    "objectID": "markdown/lesson_plan.html#discover-computer-science-teachable-machine-workshop",
-    "href": "markdown/lesson_plan.html#discover-computer-science-teachable-machine-workshop",
-    "title": "No/Low code Workshop",
-    "section": "",
-    "text": "A No / Low Code workshop where students will learn about machine learning (ML) and build their own ML application.\n\nTraining the AI/ML model is a NO code exercise.\n\nCreating a working web application is a low code exercise.\n\nStudents will modify a working application for their needs.\n\n\n\n\n4th through 12th\nThis mainly targets to middle school to elementary. But there is no age limit on this workshop.\n\n\n\nSlide Deck\n\n\n\n60-90 minutes\n\n\n\n\nStudents will learn about classification\nHow classifications is used in Machine learning (ML)\nHow to create their own ml algorithm\nCreate their own application\nBe introduced to computer science.\n\n\n\n\nExplain that machine learning is when computers detect patterns\nMake their own rules (a model) for describing those patterns\nTrain a machine learning model using Teachable Machine\nUse conditional statements\n\n\n\n\n\n\n\n\n\nItem\nQty\n\n\n\n\nMonkey Carts Printed\n1 set per group\n\n\nlaptop with web camera\n1 per group\n\n\nInternet\n\n\n\nPen and Paper\n1 per student"
-  },
-  {
-    "objectID": "markdown/lesson_plan.html#lesson",
-    "href": "markdown/lesson_plan.html#lesson",
-    "title": "No/Low code Workshop",
-    "section": "Lesson",
-    "text": "Lesson\nOutline:\n\nClasses and Models (No computers, Need monkey cards)\nFinished Application Demo\nWalk through Teachable Machines\nStudent build their own application (two class AI model)\n(stretch) Students build three class application\n(stretch) Students build a nicer application\n\n\nOpening (15 min)\nHOOK\nShow finished Application Demo\nAsk: How does that work?\nWalk through what a class is.\nGive students a set of the green monkey cards (from AI Unplugged). Have teams divide their chart paper into 2 classes: Biting and Non Biting.\nTraining data (blue paper):\n\nbiting: 1, 2, 3, 4\nnon- biting: 5-20 Have them decide which characteristics are for biting monkeys. This is done as a group.\n\nThen show them the test data (green paper) and see how well their model did.\nTest data (green paper)\n\nBiting: 22, 23, 24\nNon-biting: 21, 25 - 40\n\nAI Unplugged has more example in this paper\n\n\nML Explained (2.5 min)\nOverview Video on Machine Learning (~ 2 minutes)\nYouTube (very simple explanation)\n\n\nTrain Model (10 min)\nTrain Model with Teachable Machines.\n\nDemo how to train a model on Teachable Machine\nGive students 6-7 minutes to train their own.\n\nHave students go to Teachable Machine\nClick Get Started and start an image classification\nLet students create two class classification for any school acceptable hand jester.\n\nKeep the images simple\nname your classes something descriptive: Cat / Dog\nAsk how you could account for differences: skin color, jewelry, nail color.\n\n\n\n\n\nRun Models (10min)\n\nDownload model.\n\nShow students how to copy their model to a folder (static) in student_application_start,\nUpdate the URL in the my_model.js (line 5)\n\n(stretch) Show students how to add an image to the first “if” condition. (on line 64) (hint: look at the application_demo folder)\n\nUse Wikipedia images search for emojis\n\n(stretch) Ask how the Javascript syntax is different than the Python Syntax\n\n\n\nClosing\n\nHave each group Demo their application\nStudent Reflection:\n\nHow could you use ML application in your school, home, car?\nWhat would you have to consider when training a model?\n\nCelebrate: You created a working ML models!\n\nFollow-up Resources:\n\nAI Unplugged\nAI for ALl summer programs\nThe Code Train\nGoogle Tutorial"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "No Code ML/AI Tutorial",
     "section": "",
-    "text": "WTM\n\n\nEvelyn J. Boettcher’s tutorial based on a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.\nThis tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.\nPlease bring a laptop. The goal of this tutorial is to walk you through the ML/AI concepts and build your own application that can recognize hand gestures, cat etc from a web camera.\nThis is a step-by-step guide to build an ML image application\n\n\n\nSubject\nImage\n\n\n\n\nTrain a model\n\n\n\nExport Model\n\n\n\nIntegrate Model"
+    "text": "WTM\n\n\nEvelyn J. Boettcher’s tutorial is based on a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.\nThis tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.\nThe goal of this tutorial is to walk someone through the ML/AI concepts and have them build their own application that can recognize hand gestures, cat etc from a web camera.\nThis is a step-by-step guide to build an ML image application\n\n\n\nSubject\nImage\n\n\n\n\nTrain a model\n\n\n\nExport Model\n\n\n\nIntegrate Model"
   }
 ]

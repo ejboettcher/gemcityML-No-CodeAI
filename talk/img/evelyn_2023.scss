@@ -357,16 +357,16 @@ $headings-font-weight:  500 !default;
 }
 
 .reveal h1.title{
-text-align: center !important;
-align: center !important;
-margin-left: 0rem !important;
-padding-top: 5rem;
-box-sizing: content-box;
-width: 100% !important;
-color:  #039ac6ff;
-text-shadow: 1px 1px 5px #015079;
+  text-align: center !important;
+  align: center !important;
+  margin-left: 0rem !important;
+  padding-top: 5rem;
+  box-sizing: content-box;
+  width: 100% !important;
+  color:  #039ac6ff;
+  text-shadow: 1px 1px 5px #015079;
 }
-.reveal p.author{
+.reveal .quarto-title-author{
   text-align: center !important;
   align: center !important;
   font-size: 1.35em;

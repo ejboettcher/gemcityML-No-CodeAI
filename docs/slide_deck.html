@@ -11,7 +11,7 @@
   <meta name="generator" content="quarto-1.3.450">
 
   <meta name="author" content="Evelyn J. Boettcher">
-  <meta name="dcterms.date" content="2023-12-31">
+  <meta name="dcterms.date" content="2023-12-03">
   <title>No/Low Code Workshop - No Code Machine Learning Workshop</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -97,7 +97,7 @@
     code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   </style>
   <link rel="stylesheet" href="site_libs/revealjs/dist/theme/quarto.css">
-  <link rel="stylesheet" href="evelyn_2023.css">
+  <link rel="stylesheet" href="img/evelyn_2023.css">
   <link href="site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -395,7 +395,7 @@
     <div class="slides">
 
 <section id="title-slide" data-background-image="img/logos/gem_cityML_slide.png" data-background-opacity="0.95" data-background-position="0%" data-background-size="100% 100%" class="quarto-title-block center">
-  <h1 class="title">No Code ML/AI Tutorial</h1>
+  <h1 class="title">No Code Machine Learning Workshop</h1>
   <p class="subtitle">Building an AI web app with low code.</p>
 
 <div class="quarto-title-authors">
@@ -406,10 +406,12 @@ Evelyn J. Boettcher
 </div>
 </div>
 
-  <p class="date">20231231</p>
+  <p class="date">2023-12-03</p>
 </section>
 <section id="welcome" class="slide level2">
 <h2>Welcome</h2>
+<div class="columns">
+<div class="column" style="width:59%;">
 <ul>
 <li>Please grab a pencil/pen and paper. (Reflection afterwards)</li>
 <li>Please go to github for code
@@ -417,6 +419,15 @@ Evelyn J. Boettcher
 <li>Download <a href="https://github.com/ejboettcher/gemcityML-No-CodeAI">the repo</a></li>
 </ul></li>
 </ul>
+</div><div class="column" style="width:39%;">
+<div class="quarto-figure quarto-figure-center margin-caption">
+<figure>
+<p><img data-src="./img/qrcode_github.com.png" class="margin-caption"></p>
+<figcaption>github</figcaption>
+</figure>
+</div>
+</div>
+</div>
 </section>
 <section id="ml-with-teachable-machines" class="slide level2">
 <h2>ML with Teachable Machines</h2>
@@ -428,8 +439,11 @@ Evelyn J. Boettcher
 <li>please, ask and give help as needed</li>
 </ul></li>
 <li>Everyone here is valued and respected</li>
-<li>Got Stuck: Break it up and try again</li>
-<li>This is an intro (e.g.&nbsp;Taste of technical skills)
+<li>Got Stuck:
+<ul>
+<li>Break it up and try again</li>
+</ul></li>
+<li>This is an intro (e.g.&nbsp;Taste / sample of a technical skills)
 <ul>
 <li>Want to build a more powerful app or dig deeper
 <ul>
@@ -442,20 +456,27 @@ Evelyn J. Boettcher
 <h2>About Me</h2>
 <p>Evelyn J. Boettcher</p>
 <div class="columns">
-<div class="column" style="width:49%;">
+<div class="column" style="width:45%;">
 <div class="quarto-figure quarto-figure-center margin-caption">
 <figure>
 <p><img data-src="./img/Boettcher_C17.jpeg" class="margin-caption"></p>
 <figcaption>Evelyn Boettcher</figcaption>
 </figure>
 </div>
+</div><div class="column" style="width:5%;">
+
 </div><div class="column" style="width:49%;">
 <ul>
 <li>Mom</li>
 <li>Loves to sew and cook</li>
 <li>I speak one language well and that is python!</li>
-<li>Trained Physicist</li>
-<li>Member of GemCity.TECH</li>
+<li>Trained Physicist ( I have a Master’s degree)</li>
+<li>I like to make things
+<ul>
+<li>Patents</li>
+<li>IoT devices in running my house</li>
+</ul></li>
+<li>Member of GemCity.TECH and Google Women Techmaker Ambassador</li>
 </ul>
 </div>
 </div>
@@ -877,42 +898,10 @@ The model is trained using the training data, and then it is evaluated on test d
 <li><a href="https://docs.google.com/presentation/d/1utfeQZ3c7e5pZBAiz_FoNOwf5UhHRwSLmiRNtk7IAqE/edit?resourcekey=0-0dTtFB9sPOpUlazCgFpmfQ#slide=id.gf9e14153cd_0_9">Nicki Anselmo WTM workshop for CS 2023</a></li>
 </ul>
 
-<p><img src="img/logos/DidactexLogo.png" class="slide-logo"></p>
-<div class="footer footer-default">
+
+<img src="./img/logos/DidactexLogo.png" class="slide-logo r-stretch"><div class="footer footer-default">
 <p>Gem City Tech ML/AI</p>
 </div>
-<div class="quarto-figure quarto-figure-center margin-caption">
-<figure>
-<p><img data-src="./data/WTM_Logo_Stacked_Horizontal_Color.png" class="margin-caption"></p>
-<figcaption>WTM</figcaption>
-</figure>
-</div>
-<p>Evelyn J. Boettcher’s tutorial based on a Google Women Techmakers educational tutorial on how to make an image classifier application with No/Low Code.</p>
-<p>This tutorial is designed to encourage kids to go into Computer Science by gently introducing them to AI and Machine learning. No Coding or ML experience needed.</p>
-<p>Please bring a laptop. The goal of this tutorial is to walk you through the ML/AI concepts and build your own application that can recognize hand gestures, cat etc from a web camera.</p>
-<p>This is a step-by-step guide to build an ML image application</p>
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: left;">Subject</th>
-<th style="text-align: left;">Image</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: left;">Train a model</td>
-<td style="text-align: left;"><img data-src="./data/teachable_machine.png"></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;">Export Model</td>
-<td style="text-align: left;"><img data-src="./data/export_model.png"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;">Integrate Model</td>
-<td style="text-align: left;"><img data-src="./data/evelyn_peace.png"></td>
-</tr>
-</tbody>
-</table>
 </section>
     </div>
   </div>

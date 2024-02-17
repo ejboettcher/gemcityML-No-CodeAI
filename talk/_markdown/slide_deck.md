@@ -1,9 +1,21 @@
 
 ## Welcome
 
+:::{.columns}  
+::::{.column width=59%}
+
 - Please grab a pencil/pen and paper.  (Reflection afterwards)
 - Please go to github for code
   - Download [the repo](https://github.com/ejboettcher/gemcityML-No-CodeAI)
+
+::::  
+::::{.column width=39%}
+
+![github](./img/qrcode_github.com.png)
+
+
+::::  
+:::
 
 ## ML with Teachable Machines
 
@@ -14,8 +26,9 @@ Let's get in the right mindset.
 - We are all learners and we are all teachers.
     - please, ask and give help as needed
 - Everyone here is valued and respected
-- Got Stuck: Break it up and try again
-- This is an intro (e.g. Taste of technical skills)
+- Got Stuck:
+   - Break it up and try again
+- This is an intro (e.g. Taste / sample of a technical skills)
    - Want to build a more powerful app or dig deeper
         - Go to [Tensorflow website](https://codelabs.developers.google.com/tensorflowjs-transfer-learning-teachable-machine#0)
 
@@ -26,18 +39,23 @@ Let's get in the right mindset.
 Evelyn J. Boettcher
 
 :::{.columns}
-::::{.column width=49%}
+::::{.column width=45%}
 
 ![Evelyn Boettcher](./img/Boettcher_C17.jpeg)
 
+::::
+::::{.column width=5%}
 ::::
 ::::{.column width=49%}
  
 - Mom
 - Loves to sew and cook
 - I speak one language well and that is python!
-- Trained Physicist
-- Member of GemCity.TECH
+- Trained Physicist  ( I have a Master's degree)
+- I like to make things
+   - Patents 
+   - IoT devices in running my house 
+- Member of GemCity.TECH and Google Women Techmaker Ambassador
 
 ::::
 :::

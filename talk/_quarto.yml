@@ -7,8 +7,8 @@ format:
   html:
     code-fold: true
     html-math-method: katex
-    theme: [default, evelyn_2023.scss]
-    css: evelyn_2023.css
+    theme: [default, img/evelyn_2023.scss]
+    css: img/evelyn_2023.css
     toc: true
 
   

@@ -8,19 +8,19 @@ title-slide-attributes:
     data-background-size: "100% 100% "
     data-background-position: "0% "
     data-background-opacity: "0.95"
-format:  revealjs    
-fig-cap-location: margin
-revealjs:
-    theme: [default, evelyn_2023.scss]
-    css: evelyn_2023.css
-    logo: './img/logos/DidactexLogo.png'
-    footer: "Gem City Tech ML/AI "
-    scrollable: true
-    transition: slide
-    transition-speed: fast    
-    chalkboard:
-      buttons: true
+format:  
+    revealjs:
+        theme: [img/evelyn_2023.scss, default]
+        css: img/evelyn_2023.css
+        logo: './img/logos/DidactexLogo.png'
+        footer: "Gem City Tech ML/AI "
+        scrollable: true
+        transition: slide
+        transition-speed: fast    
+        chalkboard:
+            buttons: true
 
+fig-cap-location: margin
 ---
 
 {{< include ./_markdown/slide_deck.md >}}
