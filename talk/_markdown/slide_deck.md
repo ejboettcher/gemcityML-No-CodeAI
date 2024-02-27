@@ -51,10 +51,10 @@ Evelyn J. Boettcher
 - Mom
 - Loves to sew and cook
 - I speak one language well and that is python!
-- Trained Physicist  ( I have a Master's degree)
+- Trained Physicist  (I have a Master's degree)
 - I like to make things
-   - Patents 
-   - IoT devices in running my house 
+   - I have patents 
+   - Made IoT devices to [automate house](https://www.anaconda.com/blog/create-an-intermittent-fan-controller-with-python) 
 - Member of GemCity.TECH and Google Women Techmaker Ambassador
 
 ::::
